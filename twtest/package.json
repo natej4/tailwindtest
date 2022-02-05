@@ -1,0 +1,18 @@
+{
+  "name": "twtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:/.IST276/twtest"
+  },
+  "author": "Nate Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.18"
+  }
+}
